@@ -92,11 +92,13 @@ p {
     padding: 0 1%;
     padding-bottom: 20px;  
     margin: 15px;
+    border-bottom: 1px dashed black;
 }
 
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
+    
 }
 
 .middle-content h2 {
@@ -235,5 +237,20 @@ a:hover{
     font-size: 12px;
     border-radius: 12px;
     border:2px solid black;
+    margin-top:10px ;
     margin-bottom:10px;
 }
+.middle-content-about{
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+    /* display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around; */
+}
+/* .middle-content-about .text-container{
+    font-size: 12px;
+    display:flex;
+    flex-wrap: wrap;
+    padding:15px;
+    margin: 10px;
+} */
