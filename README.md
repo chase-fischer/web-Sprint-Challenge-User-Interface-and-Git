@@ -31,17 +31,25 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 Demonstrate your understanding of this week's concepts by answering the following free-form questions.
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read.
-
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+Semantic HTML is using the language to convey information and meaning of each element placed, and is distinct from the visual presentation of the elements. EX: Using H1 on the most important heading or part of a section or page, and only using it once as only one item should be that important. 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+Display: Block adds a line break before/after the element, inline does not. Display:inline ignores top/bottom padding and margin, display:block does not
+
 3. What are the 4 areas of the box model?
+
+Content, Padding, Border, Margin
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+The Vertical Axis (or cross axis)
+
 5. Explain why git is valuable to a team of developers.
 
+Allows multiple developers to work on the same project without interfering with eachother, and allows you to revert to a previous version of the code if you encounter an error that breaks the software
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
